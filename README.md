@@ -10,7 +10,9 @@ và thời gian mỗi bữa ăn của bệnh nhân.
 Đây là bài thi vòng 1 của đội Sparkle gồm 3 thành viên:
 
 Lương Đắc Nguyên - Trường Đại Học Công Nghệ Thông Tin, Đại Học Quốc Gia Thành Phố Hồ Chí Minh VNU HCM - UIT
+
 Nguyễn Hoàng Long - Trường Đại Học Công Nghệ Thông Tin, Đại Học Quốc Gia Thành Phố Hồ Chí Minh VNU HCM - UIT
+
 Nguyễn Trương Ánh Trúc - Trường Đại Học Sư Phạm Kỹ Thuật Hồ Chí Minh - UTE
 
 File [MMC]De_Thi_Phase2.pdf là đề thi Toán Mô Hình Bảng Sinh Viên năm 2024
