@@ -20,4 +20,5 @@ File [MMC]De_Thi_Phase2.pdf là đề thi Toán Mô Hình Bảng Sinh Viên năm
 File BANG_B_TMH 24028_TMH_V2.pdf là bài báo cáo của đội
 
 ----------------- Và đội thi đẫ đạt được giải 3 cuộc thi---------------------
+
 <img width="339" alt="toanmonhinh" src="https://github.com/user-attachments/assets/5bfe9bda-9361-486d-9e41-a38efe2ce580" />
